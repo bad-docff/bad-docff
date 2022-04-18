@@ -21,6 +21,4 @@ I started my career as a system administrator, in the process I developed my pro
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/bad-docff"><img src="https://github-readme-stats.vercel.app/api?username=bad-docff&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bad-docff's GitHub stats" /></a>
-
 <a href="https://github.com/bad-docff" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bad-docff&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
